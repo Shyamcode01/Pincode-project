@@ -28,7 +28,7 @@ let Postcode = ({ onlocationfetch }) => {
                 let data = await response.json();
                 onlocationfetch(data);
             } else {
-                alert('PLESE INTER VALID PINCODE ! 400031 TO 400039')
+                alert('PLESE INTER VALID PINCODE !')
             }
 
         } catch (error) {
