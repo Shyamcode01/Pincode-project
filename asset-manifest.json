@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Pincode-project/static/css/main.e90ba3c5.css",
-    "main.js": "/Pincode-project/static/js/main.70770144.js",
+    "main.js": "/Pincode-project/static/js/main.ec104c96.js",
     "static/js/787.0f7dc5a1.chunk.js": "/Pincode-project/static/js/787.0f7dc5a1.chunk.js",
     "index.html": "/Pincode-project/index.html",
     "main.e90ba3c5.css.map": "/Pincode-project/static/css/main.e90ba3c5.css.map",
-    "main.70770144.js.map": "/Pincode-project/static/js/main.70770144.js.map",
+    "main.ec104c96.js.map": "/Pincode-project/static/js/main.ec104c96.js.map",
     "787.0f7dc5a1.chunk.js.map": "/Pincode-project/static/js/787.0f7dc5a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e90ba3c5.css",
-    "static/js/main.70770144.js"
+    "static/js/main.ec104c96.js"
   ]
 }
